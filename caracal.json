@@ -1,0 +1,40 @@
+{
+    "name": "Caracal",
+    "capacitor": {
+        "capacity": 1910,
+        "rechargeTime": 474
+    },
+    "modules": [
+        {
+            "name": "MK5 Ballistic Control System",
+            "activationCost": 154,
+            "activationTime": 20,
+            "reactivationDelay": 60,
+            "online": true
+        },
+        {
+            "name": "MK5 Reactive Shield Hardener",
+            "activationCost": 23.04,
+            "activationTime": 11.2,
+            "online": true
+        },
+        {
+            "name": "MK5 Medium Shield Booster",
+            "activationCost": 137,
+            "activationTime": 5.52,
+            "online": true
+        },
+        {
+            "name": "MK5 Stasis Webifier",
+            "activationCost": 3.36,
+            "activationTime": 5,
+            "online": true
+        },
+        {
+            "name": "MK5 Medium Afterburner",
+            "activationCost": 116,
+            "activationTime": 11.5,
+            "online": false
+        }
+    ]
+}
